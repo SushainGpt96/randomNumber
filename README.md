@@ -12,7 +12,7 @@ $ npm i sushain-random0-9
 
 ```
 
-const random = require('random')
+const random = require('sushain-random0-9')
 console.log(random())
 
 ```

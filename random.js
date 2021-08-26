@@ -1,4 +1,3 @@
-exports.random = () => {
-  let value = Date.now().toString().split("").reverse()[1];
-  return value;
+module.exports = () => {
+  return Date.now().toString().split("").reverse()[1];
 };
