@@ -1,0 +1,16 @@
+{
+  "name": "sushain-random0-9",
+  "version": "1.0.6",
+  "description": "package to generate a random number from 0-9",
+  "main": "random.js",
+  "scripts": {
+    "start": "random.js"
+  },
+  "author": "Sushain Gupta",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "''"
+  }
+}
