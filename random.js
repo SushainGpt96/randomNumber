@@ -1,4 +1,4 @@
-const getRandom = (n1 = 10, n2) => {
+exports.getRandom = (n1 = 10, n2) => {
   let value = new Date().getMilliseconds();
   let array = [];
   let output;
@@ -14,4 +14,3 @@ const getRandom = (n1 = 10, n2) => {
     return value2;
   }
 };
-module.exports = getRandom;
