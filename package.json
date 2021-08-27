@@ -1,6 +1,6 @@
 {
   "name": "sushain-random-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package to generate a Random Number",
   "main": "random.js",
   "author": "Sushain Gupta",

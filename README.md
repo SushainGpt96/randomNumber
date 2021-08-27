@@ -1,6 +1,6 @@
-# sushain-random0-9
+# sushain-random-number
 
-This Package returns a Random Number from 0-9.
+This Package returns a Random Number.
 
 ## Installation
 
