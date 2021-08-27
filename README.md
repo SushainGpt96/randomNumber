@@ -12,7 +12,7 @@ $ npm i sushain-random-number
 
 ```
 
-const random = require('sushain-random-number')
+const getRandom = require('sushain-random-number')
 
 Can directly call getRandom() // Will return 10 digit Random Number.
 
