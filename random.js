@@ -1,4 +1,4 @@
-exports.getRandom = (n1 = 10, n2) => {
+module.exports = (n1 = 10, n2) => {
   let value = new Date().getMilliseconds();
   let array = [];
   let output;
