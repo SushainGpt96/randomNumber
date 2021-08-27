@@ -1,7 +1,7 @@
 {
-  "name": "sushain-random0-9",
-  "version": "1.0.10",
-  "description": "package to generate a random number from 0-9",
+  "name": "sushain-random-number",
+  "version": "1.0.1",
+  "description": "Package to generate a Random Number",
   "main": "random.js",
   "author": "Sushain Gupta",
   "license": "ISC",
@@ -13,6 +13,8 @@
     "tiny",
     "npm",
     "package",
-    "randomNumber"
+    "randomNumber",
+    "Range",
+    "XX-Math.random-XX"
   ]
 }
